@@ -52,7 +52,10 @@ p, a, li, h1, h3{
 .menu ul li a:hover{
 	color: #F69F2C;
 }
-
+.menu{
+	//width: 100%;
+width: 40%;
+}
 /* AQUI COMIENZA EL CUERPO */
 .slider{
 	//width: 100%;
