@@ -10,7 +10,8 @@ p, a, li, h1, h3{
 /* ESTA ES LA CABECERA*/
 .cabecera{
 	overflow: hidden;
-	background: #dddddd;
+	//background: #dddddd;
+	background: #7b10d9;
         
 }
 .cabecera img{
